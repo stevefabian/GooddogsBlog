@@ -85,5 +85,6 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
-  }
+  },
+  "repository": "https://github.com/stevefabian/GooddogsBlog.git"
 }
