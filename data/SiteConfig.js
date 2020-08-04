@@ -22,7 +22,7 @@ const config = {
   postInCategories: "",
   postOnDate: "Posted on",
   // Use for comment
-  lazyLoadComments: false,
+  lazyLoadComments: true,
   disqusShortname: "gooddogs-com", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
@@ -57,24 +57,12 @@ const config = {
   // Use for links widget
   sidebarSticky: true,
   sidebarLinks: [
-    {
-      label: "Complete JavaScript",
-      url: "https://completejavascript.com/"
-    },
-    {
-      label: "Lam Pham Blog",
-      url: "https://phamvanlam.com/"
-    },
-    {
-      label: "Lam Pham Portfolio",
-      url: "http://about.phamvanlam.com/"
-    },
   ],
   // Use for user info
-  userName: "Lam Pham", // Username to display in the author segment.
-  userEmail: "completejavascript.super@gmail.com", // Email used for RSS feed"s author segment
-  userTwitter: "CmpltJavaScript", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "Hanoi, Vietnam", // User location to display in the author segment.
+  userName: "Steve Fabian", // Username to display in the author segment.
+  userEmail: "steve@gooddogs.com", // Email used for RSS feed"s author segment
+  userTwitter: "SteveFabian", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "North Carolina, USA", // User location to display in the author segment.
   userAvatar: "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
   userDescription:
     "Software Engineer, Web Developer, JavaScript Lover & Blogger @completejavascript.", // User description to display in the author segment.
@@ -82,7 +70,7 @@ const config = {
   userLinks: [
     {
       label: "Email",
-      url: "mailto:completejavascript.super@gmail.com",
+      url: "mailto:steve@gooddogs.com",
       iconClassName: "far envelope"
     },
     {
@@ -115,38 +103,28 @@ const config = {
   // Use for footer
   socialLinks: [
     { 
-      label: "Codepen", 
-      url: "https://codepen.io/completejavascript/", 
-      iconClassName: "fab codepen" 
-    },
-    { 
-      label: "FreeCodeCamp", 
-      url: "", // Ignore 
-      iconClassName: "fab free-code-camp"
-    },
-    { 
       label: "GitHub",
-      url: "https://github.com/completejavascript",
+      url: "https://github.com/stevefabian",
       iconClassName: "fab github"
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/completejavascript/", 
+      url: "https://www.facebook.com/steve.fabian.944/", 
       iconClassName: "fab facebook-f"
     },
     { 
       label: "Linkedin", 
-      url: "https://www.linkedin.com/in/completejavascript/", 
+      url: "https://www.linkedin.com/in/steve-fabian-b376543/", 
       iconClassName: "fab linkedin-in"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/CmpltJavaScript",
+      url: "https://twitter.com/SteveFabian",
       iconClassName: "fab twitter"
     },
     {
       label: "RSS",
-      url: "https://gb-template.netlify.com/rss.xml",
+      url: "https://gooddogs.com/rss.xml",
       iconClassName: "fas rss"
     },
   ],

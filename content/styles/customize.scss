@@ -7,3 +7,12 @@ body {
 .title {
     color: #ddd;
 }
+
+a:any-link {
+    color: #e2e2e2 !important;
+}
+
+.gatsby-resp-image-wrapper {
+    max-width: 64px !important;
+    margin-left: 0px !important;
+}

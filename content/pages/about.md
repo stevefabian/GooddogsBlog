@@ -1,68 +1,17 @@
 ---
 template: "page"
-title: "About"
-description: "This is a description on About"
+title: "About Gooddogs.com"
+description: "About Gooddogs.com"
 slug: "about"
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+Gooddogs.com was started back in the mid to late 80's. I wanted a domain to use when
+doing some side projects and consulting work, and at the time, my wife and I were
+volunteering at an animal rescue shelter in Byram, NJ. We had 3 dogs at the time and 
+over the years we've always had dogs in our family, as many as six at one time :)
 
-## Sedisti civiliter
+> more content to come on this page, talking about my personal history, and what I've
+> tried to accomplish in my career over a span of 30+ years, as well as why you
+> would possibly care to visit this site, now and in the future
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
-
-## Vultusque subsequitur Pallas regis datis inde animaque
-
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
-
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
-
-## Fortis dextrae humo limina Tempus singultibus illa
-
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+*Steve Fabian*
