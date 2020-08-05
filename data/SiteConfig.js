@@ -50,7 +50,7 @@ const config = {
   latestPostsWidgetTitle: "Latest posts",
   linksWidgetTitle: "Links",
   // Use for Google custom search
-  searchWidgetTitle: "Looking for?",
+  searchWidgetTitle: "earch",
   searchWidgetPlaceHolder: "Enter keyword",
   searchEngineID: "008548374781244864787:9ybvtnkbt7o",
   hasSearch: true,
