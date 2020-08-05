@@ -24,6 +24,7 @@ const Post = ({ postNode, config, slug }) => {
         <PostShare extraClass="share-wrapper" postPath={slug} postNode={postNode} />
       </div>
       <PostDivider />
+      <a href="/" class="btn btn-primary">Return</a>
       <div 
         className="padding-top padding-bottom" 
         dangerouslySetInnerHTML={{ __html: postNode.html }} 
