@@ -10,7 +10,7 @@ const config = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "", // FB Application ID for using app insights
-  googleAnalyticsID: "", // GA tracking ID.
+  googleAnalyticsID: "UA-174944720-1", // GA tracking ID.
   postDefaultCategoryID: "", // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 8,
@@ -34,7 +34,7 @@ const config = {
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
   pageNotFoundTitle: "Page Not Found", // 
-  pageNotFoundBtn: "Back to our site",
+  pageNotFoundBtn: "Back to the Home Page",
   pageNotFoundContent: "Looks like you've followed a broken link or entered a URL that doesn't exist on this site.",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
@@ -52,7 +52,7 @@ const config = {
   // Use for Google custom search
   searchWidgetTitle: "Search",
   searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "008548374781244864787:9ybvtnkbt7o",
+  searchEngineID: "",
   hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
@@ -63,9 +63,9 @@ const config = {
   userEmail: "steve@gooddogs.com", // Email used for RSS feed"s author segment
   userTwitter: "SteveFabian", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "North Carolina, USA", // User location to display in the author segment.
-  userAvatar: "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
+  userAvatar: "http://www.gravatar.com/avatar/b3763f8692e3c5c09d0fb4c1ba3a3d78?s=100&d=wavatar", // User avatar to display in the author segment.
   userDescription:
-    "Software Engineer, Web Developer, JavaScript Lover & Blogger @completejavascript.", // User description to display in the author segment.
+    "Software Architect, Web Developer, Mentor.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -75,22 +75,22 @@ const config = {
     },
     {
       label: "Website",
-      url: "https://completejavascript.com/",
+      url: "https://gooddogs.com/",
       iconClassName: "fas globe"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/CmpltJavaScript",
+      url: "https://twitter.com/SteveFabian",
       iconClassName: "fab twitter"
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/completejavascript/", 
+      url: "https://www.facebook.com/SteveFabian/", 
       iconClassName: "fab facebook-f" 
     },
     { 
       label: "Linkedin", 
-      url: "https://www.linkedin.com/in/completejavascript/", 
+      url: "https://www.linkedin.com/in/steve-fabian-b376543/", 
       iconClassName: "fab linkedin-in"
     },
   ],
