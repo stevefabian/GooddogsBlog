@@ -20,6 +20,14 @@ const MainLayout = ({ children, hasFooter = true }) => (
       title={siteConfig.navTitle} 
       links={siteConfig.navLinks} 
     />
+    <div class="banner">
+      <h4>NOTICE</h4>
+      <p>This site is currently being re-designed, and as such does not contain any meaningful content at this time. 
+        Eventually, there will be blog posts that may (or may not) be of interest to software developers and
+        architects, but for now...
+      </p>
+      <p>There's nothing to see here, please move on</p>
+    </div>
     {children}
     {hasFooter && (
       <Footer 
